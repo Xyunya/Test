@@ -7,14 +7,7 @@ public class JavaApplication7 {
 
  
     public static void main(String[] args) {
-//лааах //  void
-      //     gdgdsgsdggdsfs
 
-        
-    //    asufgasgfiasufiuasdf
-
-        //blablabla
-     KHSGDlhasgfsdbf;sdk/lsgm;ldfsgmk;ldfmhd;ofhjmdphlfhgdhdgh
     }
     
 }
